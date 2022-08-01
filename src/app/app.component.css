@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+a{
+    color: beige;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out 0s;
+}
+.logout{
+    margin-left: 250px;
+}
+
+.footer {
+    font-family: 'Indie Flower', cursive;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(53, 9, 135);
+    color: white;
+    text-align: center;
+  }
+  .navbar-brand {
+    font-family: 'Comfortaa', cursive;
+    cursor: text;
+  }
+
+  .nav-link:hover {
+    border-top: 1.5px solid rgb(40, 237, 43);
+    color: rgb(234, 143, 39);
+  }
+  
+  .navbar-collapse {
+    position: absolute;
+    margin-left: 700px;
+  }
+
+  .nav-link:active {
+    color: orange;
+  }
